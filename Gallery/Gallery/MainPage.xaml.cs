@@ -29,7 +29,7 @@ namespace Gallery
             {
                 image.Source = ImageSource.FromStream(() => stream);
             }
-
+            //fsidjfiasjfiasjfisajfiasj
             (sender as Button).IsEnabled = true;
         }
     }
